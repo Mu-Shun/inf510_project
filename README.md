@@ -1,4 +1,4 @@
-# inf510_project
+# MLB Athletic Database and Data Analyzing
 
 This project requires the following packages:
 
